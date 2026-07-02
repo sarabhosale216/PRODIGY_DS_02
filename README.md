@@ -1,6 +1,4 @@
-# Prodigy InfoTech Data Science Internship - Task 02
-
-## Data Cleaning and Exploratory Data Analysis (EDA) on the Titanic Dataset
+# PRODIGY_DS_02 - Data Cleaning and Exploratory Data Analysis (EDA) on the Titanic Dataset
 
 ### 📌 Objective
 The objective of this project is to perform **Data Cleaning** and **Exploratory Data Analysis (EDA)** on the Titanic dataset to uncover meaningful patterns, trends, and relationships among various passenger attributes and survival outcomes.
